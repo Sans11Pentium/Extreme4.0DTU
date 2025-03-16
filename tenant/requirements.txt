@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain_groq
+transformers
+torch
+faiss-cpu
+pandas
+joblib
